@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				371,
+				189
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				202
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				265,
+				134
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				223,
+				314
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				250,
+				270
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chris",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "chris",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		25,
+		255
+	],
+	"camera_position": [
+		-110,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}
